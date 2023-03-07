@@ -1,0 +1,10 @@
+*{
+  margin: 2px;
+  box-sizing: border-box;
+}
+
+.card card-body {
+  background-color: green;
+  color: green;
+}
+
